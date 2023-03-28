@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=joaodutra88&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <h3>Sou o <strong>João Vítor Dutra</strong>, estudante de <strong>Engenharia de Software.</strong> </h3>
-
+<hr style="border: 0.5px solid #ccc;">
 <h2>⭐ Minhas Skills </h2>
 
 **Aplicações e Dados**
