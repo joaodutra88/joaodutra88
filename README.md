@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=joaodutra88&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Perfil&message=joaodutra88&color=blue&style=for-the-badge&logo=GitHub">
 
 <h3>Sou o <strong>João Vítor Dutra</strong>, estudante de <strong>Engenharia de Software.</strong> </h3>
-<hr style="border: 0.5px solid #ccc;">
+
 <h2>⭐ Minhas Skills </h2>
 
 **Aplicações e Dados**
@@ -14,6 +14,7 @@
     <td><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></td>
   </tr>
 </table>
 
