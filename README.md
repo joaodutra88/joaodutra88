@@ -41,6 +41,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/joaodutra88">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaodutra88&theme=dark&show_icons=true">
+<!--     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaodutra88&theme=dark&show_icons=true"> -->
     <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodutra88&hide=html&layout=compact&theme=dark">
 </div>
