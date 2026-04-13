@@ -2,7 +2,7 @@
 
 # João Vítor Dutra
 
-### SDET Pleno · Software Engineer · Automation Specialist
+### SDET · Software Engineer · Automation Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=SDET+Pleno+na+AnkaTech+%7C+Fintech;Test+Automation+%7C+Quality+Engineering;Node.js+%7C+TypeScript+%7C+React+%7C+Playwright;50k%2B+operations%2Fday+automation+systems)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 ## 👋 Sobre mim
 
 Engenheiro de Software formado pelo **INATEL** com **5+ anos** desenvolvendo sistemas de automação, APIs e integrações escaláveis.
-Atualmente **SDET Pleno** na **AnkaTech**.
+Atualmente **SDET** na **AnkaTech**.
 
 Já construí automações que rodam **+50.000 operações/dia**, APIs integradas com **8+ serviços externos** e queries SQL otimizadas de **3s → 200ms**.
 
